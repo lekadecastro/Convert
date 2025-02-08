@@ -23,7 +23,9 @@ Aplicação simples desenvolvida com **JavaScript, HTML e CSS** para converter v
 
 ## 📷 Demonstração  
 
-![Preview do Conversor](https://imgur.com/wuBN5MW)  
+ <p>
+  <img src="./img/convert.jpeg">
+ </p> 
 
 ## 📚 Aprendizado  
 
